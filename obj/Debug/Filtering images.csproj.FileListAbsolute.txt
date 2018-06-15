@@ -1,0 +1,10 @@
+D:\Microsoft Visual Studio 2017\Projects\Filtering images\bin\Debug\Filtering images.exe.config
+D:\Microsoft Visual Studio 2017\Projects\Filtering images\bin\Debug\Filtering images.exe
+D:\Microsoft Visual Studio 2017\Projects\Filtering images\bin\Debug\Filtering images.pdb
+D:\Microsoft Visual Studio 2017\Projects\Filtering images\obj\Debug\Filtering_images.Form1.resources
+D:\Microsoft Visual Studio 2017\Projects\Filtering images\obj\Debug\Filtering_images.Properties.Resources.resources
+D:\Microsoft Visual Studio 2017\Projects\Filtering images\obj\Debug\Filtering images.csproj.GenerateResource.Cache
+D:\Microsoft Visual Studio 2017\Projects\Filtering images\obj\Debug\Filtering images.csproj.CoreCompileInputs.cache
+D:\Microsoft Visual Studio 2017\Projects\Filtering images\obj\Debug\Filtering images.exe
+D:\Microsoft Visual Studio 2017\Projects\Filtering images\obj\Debug\Filtering images.pdb
+D:\Microsoft Visual Studio 2017\Projects\Filtering images\obj\Debug\Filtering images.csprojAssemblyReference.cache
